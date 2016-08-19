@@ -1,0 +1,250 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"con",
+				"Controller"
+			],
+			[
+				"lis",
+				"lists"
+			],
+			[
+				"Pr",
+				"ProjectName"
+			],
+			[
+				"from",
+				"Fromusername"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 87.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 485.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"install",
+			"dfasdfa"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-admin",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content",
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/themes"
+	],
+	"file_history":
+	[
+		"/Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-config.php",
+		"/Users/lhf/Desktop/网站",
+		"/Applications/XAMPP/xamppfiles/htdocs/weiphp3/Addons/Orienteering/OrienteeringAddon.class.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/weiphp3/Application/Home/Controller/AddonsController.class.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/weiphp3/Addons/Test/Controller/QuestionController.class.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/weiphp3/Addons/Orienteering/Controller/ProjectController.class.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/weiphp3/Addons/Orienteering/Model/OrienteeringModel.class.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/weiphp3/Addons/Orienteering/Controller/OrienteeringController.class.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/weiphp3/Application/Admin/Controller/AddonsController.class.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/weiphp3/Addons/Orienteering/Model/WeixinAddonModel.class.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/weiphp3/Addons/Orienteering/config.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/weiphp3/Addons/Orienteering/Controller/adfasfd.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/weiphp3/Addons/Orienteering/Controller/aaaa.php",
+		"/Users/lhf/Downloads/ggggg",
+		"/Applications/XAMPP/xamppfiles/htdocs/weiphp3/Addons/Vote/install.sql",
+		"/Applications/XAMPP/xamppfiles/htdocs/weiphp3/Addons/Vote/Model/WeixinAddonModel.class.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/weiphp3/Addons/Vote/Controller/VoteController.class.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/weiphp3/Addons/Vote/Model/VoteModel.class.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/weiphp3/Addons/Test/Model/WeixinAddonModel.class.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/weiphp3/Addons/Orienteering/Model/ProjectController.class.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/weiphp3/Addons/Orienteering/Controller/adfasdf.class.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/weiphp3/Addons/ExampleLHF/Controller/ExampleLHFController.class.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/weiphp3/administrator",
+		"/Users/lhf/Documents/aaa.txt",
+		"/Applications/XAMPP/xamppfiles/htdocs/weiphp3.0/index.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/weiphp30/ThinkPHP/Library/Think/Db/Driver.class.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/vvv/adfasdf.php",
+		"/Users/lhf/Library/Application Support/Sublime Text 3/Packages/User/SFTP.sublime-settings",
+		"/Users/lhf/Documents/QUANJIANTIYU/Fun/ttt.asp",
+		"/Users/lhf/Documents/QUANJIANTIYU/Config.asp",
+		"/Users/lhf/Documents/QUANJIANTIYU/Lib/weixin_class.asp",
+		"/Users/lhf/Documents/QUANJIANTIYU/Fun/oauth2_test.asp",
+		"/Users/lhf/Documents/QUANJIANTIYU/备注.txt",
+		"/Users/lhf/Documents/QUANJIANTIYU/sftp-config.json",
+		"/Users/lhf/Documents/QUANJIANTIYU/Fun/__sublime_sftp_offset",
+		"/Users/lhf/Documents/QUANJIANTIYU/Fun/ProjectScore.asp",
+		"/Users/lhf/Documents/QUANJIANTIYU/Lib/base.asp",
+		"/Users/lhf/Documents/QUANJIANTIYU/Weixin.asp",
+		"/Users/lhf/Documents/QUANJIANTIYU/Fun/weui1.html",
+		"/Users/lhf/Documents/QUANJIANTIYU/使用说明.txt",
+		"/Users/lhf/Documents/QUANJIANTIYU/更新说明.txt",
+		"/Users/lhf/Documents/QUANJIANTIYU_PROD/Fun/MyProject.asp",
+		"/Users/lhf/Documents/QUANJIANTIYU_PROD/Fun/ProjectScore.asp",
+		"/Users/lhf/Documents/QUANJIANTIYU_PROD/Weixin.asp",
+		"/Users/lhf/Documents/QUANJIANTIYU_PROD/Admin/Project.asp",
+		"/Users/lhf/Documents/aaaa.html",
+		"/Users/lhf/Documents/aaaa"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"scan",
+			"common_lists",
+			"getjson"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 216.0
+	},
+	"pinned_build_system": "",
+	"project": "untitled.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Documents/QUANJIANTIYU_PROD/QJTY_PROD.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 292.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
